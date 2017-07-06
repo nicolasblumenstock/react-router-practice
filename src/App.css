@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.main{
+  margin-top: 100px;
+}
+
+.meh {
+	height: 250px;
+	width: 250px;
+}
+
+.meh img{
+	max-height: 100%;
+}
+
+p.navbar-brand{
+	margin-bottom: 0;
+}
+
+body {
+	font-family: 'Shadows Into Light', cursive;	
+}
